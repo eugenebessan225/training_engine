@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1694436061059
+current_stage: None
+description: null
+last_updated_timestamp: 1694436061059
+name: wear-detection_mlp
+run_id: d81faac575ad4bde83c582aaf7b99446
+run_link: null
+source: file:///Users/yugin/PFE/ml_spyder/training_engine/mlruns/472971624359200542/d81faac575ad4bde83c582aaf7b99446/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

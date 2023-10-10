@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yugin/PFE/ml_spyder/training_engine/mlruns/472971624359200542/36a0d3b789514a6b9c730977fd548071/artifacts
+end_time: 1694456781851
+entry_point_name: ''
+experiment_id: '472971624359200542'
+lifecycle_stage: active
+run_id: 36a0d3b789514a6b9c730977fd548071
+run_name: lgr
+run_uuid: 36a0d3b789514a6b9c730977fd548071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694456774258
+status: 3
+tags: []
+user_id: yugin

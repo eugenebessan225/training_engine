@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1694456781845
+current_stage: None
+description: null
+last_updated_timestamp: 1694456781845
+name: wear-detection_lgr
+run_id: 36a0d3b789514a6b9c730977fd548071
+run_link: null
+source: file:///Users/yugin/PFE/ml_spyder/training_engine/mlruns/472971624359200542/36a0d3b789514a6b9c730977fd548071/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2

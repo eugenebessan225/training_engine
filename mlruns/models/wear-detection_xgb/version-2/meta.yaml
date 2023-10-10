@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1694457935464
+current_stage: None
+description: null
+last_updated_timestamp: 1694457935464
+name: wear-detection_xgb
+run_id: 657677e64da64eaa93471aec3bed9247
+run_link: null
+source: file:///Users/yugin/PFE/ml_spyder/training_engine/mlruns/472971624359200542/657677e64da64eaa93471aec3bed9247/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2
